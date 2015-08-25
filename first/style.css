@@ -1,0 +1,24 @@
+
+.top {
+	background-color: #444444;
+	height: 85px;
+	width: 100%;
+}
+.side {
+	background-color: gray;
+	height: 950px;
+	width: 100%;
+}
+.bottom {
+	background-color: #222222; 
+	height: 100%; 
+	width: auto;
+	margin-left: 10%; 
+	margin-right: 10%;
+}
+.middle {
+	background-color: white;
+	height: 90%; 
+	width: auto;
+	margin-bottom: 20%;
+}
