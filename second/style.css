@@ -1,0 +1,27 @@
+html,body {
+	height: 100%;
+}
+.blue {
+	background-color: #00a2ff;
+	height: 100%;
+	width: 100%;
+}
+.mint {
+	width: 60%;
+	height: 100%;
+	margin-left: 34%;
+	background-color: #00ffd0;
+}
+.green {
+	height: 100%;
+	width: 50%;
+	margin-left: 60%;
+	background-color: #94e733;
+	position: relative;
+}
+img {
+	height: 200px; 
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
